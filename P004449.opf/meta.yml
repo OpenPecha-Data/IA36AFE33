@@ -4,4 +4,59 @@ source_metadata:
   id: bdr:W1KG14649
   title: སྲོང་བཙན་ཚངས་དབྱངས། ༼དུས་དེབ།༽
   author: ''
-  volumes: {}
+  volumes:
+    3f11d79c760c456a81aa640d398a9a6c:
+      image_group_id: I1KG15715
+      title: ''
+      volume_number: 1
+      total_pages: 41
+    d23cb3a977664c238c2687d309093008:
+      image_group_id: I1KG15716
+      title: ''
+      volume_number: 2
+      total_pages: 60
+    6ece4eaf1f12410f93bd107d39f571c9:
+      image_group_id: I1KG15717
+      title: ''
+      volume_number: 3
+      total_pages: 58
+    358592e07df541e8ad986b76b76af16f:
+      image_group_id: I1KG15718
+      title: ''
+      volume_number: 4
+      total_pages: 64
+    2ff182c74fbe4473af6c76c3f2c30623:
+      image_group_id: I1KG15719
+      title: ''
+      volume_number: 5
+      total_pages: 64
+    927784cf95fc47ceb0a5794c709dcca2:
+      image_group_id: I1KG15720
+      title: ''
+      volume_number: 6
+      total_pages: 70
+    4570ee7804b14ba49b43615411f2cc99:
+      image_group_id: I1KG15721
+      title: ''
+      volume_number: 7
+      total_pages: 56
+    3581161c771d45a3a80f4ef168341257:
+      image_group_id: I1KG15722
+      title: ''
+      volume_number: 8
+      total_pages: 64
+    6aa3f7224a4a4c08b225057d31371219:
+      image_group_id: I1KG15723
+      title: ''
+      volume_number: 9
+      total_pages: 60
+    cc9739b6c6274503a82c50346c6c89f2:
+      image_group_id: I1KG15724
+      title: ''
+      volume_number: 10
+      total_pages: 54
+    5b5d14cc36af41519e3e24ea1fbd8eba:
+      image_group_id: I1KG15725
+      title: ''
+      volume_number: 11
+      total_pages: 56
